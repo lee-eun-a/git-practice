@@ -1,8 +1,0 @@
-total 1.0K
-drwxr-xr-x 1 USER 197121  0 Nov 15 02:00 euna/
--rw-r--r-- 1 USER 197121  0 Nov 15 18:47 file_list.txt
--rw-r--r-- 1 USER 197121 85 Nov  8 17:14 hello_whom.py
-total 2.0K
-drwxr-xr-x 1 USER 197121   0 Nov 15 02:00 euna/
--rw-r--r-- 1 USER 197121 168 Nov 15 18:47 file_list.txt
--rw-r--r-- 1 USER 197121  85 Nov  8 17:14 hello_whom.py
